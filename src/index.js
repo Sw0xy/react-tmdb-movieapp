@@ -8,7 +8,6 @@ import {
 import HomePage from './Pages/HomePage';
 import MoviePage from './Pages/MoviePage';
 import MoviesPage from './Pages/MoviesPage';
-import TrendsPage from './Pages/TrendsPage';
 import reportWebVitals from "./reportWebVitals";
 
 
